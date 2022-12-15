@@ -8,7 +8,7 @@ This is an application that was made for my personalized use. It uses selenium t
 - Install Selenium - `pip3 install selenium` . (Required - Selenium version 4.3.0)
 - Make changes and enter your login credentials in the file ‘erp-bot.py’. Note: ‘data.txt’ is required in the file directory to run this
 - open ‘cmd’ and cd to the file directory.
-- Execute the file - `python [erp-bot.py](http://erp-bot.py)`
+- Execute the file - `python erp-bot.py`
 
 A video of test run for this app is included in the git repo.
 
