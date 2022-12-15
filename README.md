@@ -1,5 +1,5 @@
 # erp-bot
-This is an application that was made for my personalized use. It uses selenium to get information from institute ERP website (of **Indian Institute of Technology Kharagpur**). This was made during placement process and automatically checks and notify me if number of companies changed. 
+This is an application that was made for my personalized use. It uses selenium to get information from institute ERP website (of **Indian Institute of Technology Kharagpur**). This was made during placement process for automatically checking and notifying me if number of companies changed. 
 
 ## Instructions to run this:
 
